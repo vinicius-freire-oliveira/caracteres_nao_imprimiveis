@@ -1,0 +1,1 @@
+# caracteres_nao_imprimiveis
